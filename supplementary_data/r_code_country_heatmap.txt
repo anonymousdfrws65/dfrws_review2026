@@ -1,0 +1,375 @@
+library(ggplot2)
+
+library(readr)
+
+library(dplyr)
+
+library(tidyr)
+
+
+
+# Read data
+
+df <- read_csv(
+
+  "top10_country_category_percent.csv",
+
+  show_col_types = FALSE
+
+)
+
+
+
+# Rename first column
+
+df <- df %>%
+
+  rename(Country = 1) %>%
+
+  mutate(Country = trimws(Country))
+
+
+
+# Convert to long format
+
+df_long <- df %>%
+
+  pivot_longer(
+
+    cols = -Country,
+
+    names_to = "Category",
+
+    values_to = "Percent"
+
+  ) %>%
+
+  mutate(
+
+    Category = trimws(Category),
+
+    Percent = replace_na(Percent, 0)
+
+  )
+
+
+
+# Country abbreviations
+
+country_abbr <- c(
+
+  "United States" = "USA",
+
+  "USA" = "USA",
+
+  "Germany" = "DE",
+
+  "South Korea" = "KR",
+
+  "United Kingdom" = "UK",
+
+  "Ireland" = "IE",
+
+  "Switzerland" = "CH",
+
+  "Canada" = "CA",
+
+  "Australia" = "AU",
+
+  "Netherlands" = "NL",
+
+  "Norway" = "NO"
+
+)
+
+
+
+# Category abbreviations
+
+abbr <- c(
+
+  "AI Forensics" = "AI",
+
+  "Blockchain Forensics" = "BC",
+
+  "Database Forensics" = "DB",
+
+  "Device/IoT Forensics" = "Device",
+
+  "Digital Forensic Science" = "DFS",
+
+  "File System" = "FS/DF",
+
+  "File System and Disk Forensics" = "FS&DF", 
+
+  "Forensics Technique" = "FT",
+
+  "Forensic Techniques" = "FT",
+
+  "Malware Forensics" = "Malware", 
+
+  "Memory Forensics" = "Memory", 
+
+  "Multimedia Forensics" = "MM",
+
+  "Network & Cloud Forensics" = "Network", 
+
+  "Network and Cloud Forensics" = "Network",
+
+  "Quantum Forensics" = "QF",
+
+  "Software Forensics" = "SW"
+
+)
+
+
+
+# Apply abbreviations
+
+df_long <- df_long %>%
+
+  mutate(
+
+    Country = recode(Country, !!!country_abbr),
+
+    Category = recode(Category, !!!abbr)
+
+  ) %>%
+
+  group_by(Country, Category) %>%
+
+  summarise(
+
+    Percent = sum(Percent, na.rm = TRUE),
+
+    .groups = "drop"
+
+  )
+
+
+
+# Preserve country order from original file
+
+country_order <- df %>%
+
+  pull(Country) %>%
+
+  recode(!!!country_abbr)
+
+
+
+df_long$Country <- factor(
+
+  df_long$Country,
+
+  levels = rev(country_order)
+
+)
+
+
+
+# Order categories by total percentage
+
+cat_order <- df_long %>%
+
+  group_by(Category) %>%
+
+  summarise(
+
+    total = sum(Percent, na.rm = TRUE),
+
+    .groups = "drop"
+
+  ) %>%
+
+  arrange(desc(total)) %>%
+
+  pull(Category)
+
+
+
+df_long$Category <- factor(
+
+  df_long$Category,
+
+  levels = cat_order
+
+)
+
+
+
+# Create heatmap
+
+p <- ggplot(
+
+  df_long,
+
+  aes(
+
+    x = Category,
+
+    y = Country,
+
+    fill = Percent
+
+  )
+
+) +
+
+  geom_tile(
+
+    color = "white",
+
+    linewidth = 0.25
+
+  ) +
+
+  scale_fill_gradientn(
+
+    colours = c(
+
+      "#fff7ec",
+
+      "#fee8c8",
+
+      "#fdd49e",
+
+      "#fcae91",
+
+      "#fb6a4a",
+
+      "#de2d26",
+
+      "#a50f15"
+
+    ),
+
+    name = "Share (%)"
+
+  ) +
+
+  scale_x_discrete(position = "top") +
+
+  labs(
+
+    x = NULL,
+
+    y = NULL
+
+  ) +
+
+  theme_minimal(
+
+    base_family = "serif",
+
+    base_size = 20
+
+  ) +
+
+  theme(
+
+    text = element_text(family = "serif"),
+
+    panel.grid = element_blank(),
+
+
+
+    axis.text.x = element_text(
+
+      angle = 45,
+
+      hjust = 0,
+
+      vjust = 0.5,
+
+      size = 20
+
+    ),
+
+
+
+    axis.text.y = element_text(
+
+      size = 20
+
+    ),
+
+
+
+    legend.position = "bottom",
+
+
+
+    legend.title = element_text(
+
+      size = 20,
+
+      face = "plain"
+
+    ),
+
+
+
+    legend.text = element_text(
+
+      size = 18
+
+    ),
+
+
+
+    plot.title = element_blank(),
+
+
+
+    plot.margin = margin(
+
+      15, 15, 15, 15
+
+    )
+
+  )
+
+
+
+# Display plot
+
+print(p)
+
+
+
+# Save PNG
+
+ggsave(
+
+  filename = "top10_country_category_heatmap_clean.png",
+
+  plot = p,
+
+  width = 14,
+
+  height = 10,
+
+  dpi = 600,
+
+  bg = "white"
+
+)
+
+
+
+# Save PDF
+
+ggsave(
+
+  filename = "top10_country_category_heatmap_clean.pdf",
+
+  plot = p,
+
+  width = 14,
+
+  height = 10,
+
+  bg = "white"
+
+)
