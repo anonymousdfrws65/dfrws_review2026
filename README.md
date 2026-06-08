@@ -15,7 +15,7 @@ This repository contains the data, figures, and analysis scripts supporting our 
 | `heatmap_top15_subcategories.csv` | Processed data used for subcategory heatmap visualization. |
 | `heatmap_top15_subcategories_long.csv` | Long-format version of the subcategory heatmap data. |
 | `tools_new_expanded.xlsx` | tool analysis for all (used/created/extended) tool identified in our 544 corpus. |
-| `tools_new_expanded.xlsx` | tool analysis for all (used/created/extended) tool identified in our 544 corpus. |
+| `Tools_only_created.csv` | created tool analysis (accessibility & sustainbility). |
 
 ### Figures
 
