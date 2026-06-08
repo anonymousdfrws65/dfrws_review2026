@@ -1,0 +1,1887 @@
+﻿Identification,,,Tool Context,,Tool Accessibility and Sustainability,,,,,,Openness,
+Title,Tool Name,year,Action,Origin,Repository Link,Hosting Location,Distribution Format,Accessibility/Availability Status,Maintenance Status,Last Observed Activity,License,
+"```json
+{
+    ""title"": ""Breaking the Performance Wall: The Case for Distributed Digital Forensics""
+}
+```",DDF Toolkit,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Secure Digital Camera""
+}
+```",Secure Digital Camera,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Data Hiding in Journaling File Systems""
+}
+```",dwrt,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Design and Implementation of Zeitline: A Forensic Timeline Editor""
+}
+```",Zeitline,,created,academic_research_DFRWS,https://sourceforge.net/projects/zeitline/,SourceForge,repository platform,accessible,no recent activity,4/17/2013,open-source,
+"```json
+{
+    ""title"": ""Unification of Digital Evidence from Disparate Sources""
+}
+```",Digital Evidence Bag (DEB),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Unification of Digital Evidence from Disparate Sources""
+}
+```",Application Wrapper,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Unification of Digital Evidence from Disparate Sources""
+}
+```",Digital Evidence Bag Viewer,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Unification of Digital Evidence from Disparate Sources""
+}
+```",Selective Imager,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automatically Creating Realistic Targets for Digital Forensics Investigation""
+}
+```",FALCON Lab Creation Tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automatically Creating Realistic Targets for Digital Forensics Investigation""
+}
+```",FALCON Lab Execution Environment,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automatically Creating Realistic Targets for Digital Forensics Investigation""
+}
+```",FALCON Lab Evaluation Tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A correlation method for establishing provenance of timestamps in digital evidence""
+}
+```",pasco2,,created,academic_research_DFRWS,http://www.bschatz.org/2006/pasco2/,project website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""A general strategy for differential forensic analysis""
+}
+```",bulk_diff.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A general strategy for differential forensic analysis""
+}
+```",corpus_sync,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A general strategy for differential forensic analysis""
+}
+```",flowdiff,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A generalized approach to automotive forensics""
+}
+```",Python framework implementing DoIP and UDS standards,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A likelihood ratio approach for the evaluation of single point device locations""
+}
+```",Python script for GPS Evaluation,2023,created,academic_research_DFRWS,https://github.com/HSpichig/GPS_Evaluation,Github,repository platform,accessible,no recent activity,3-May-23,open-source,
+"```json
+{
+    ""title"": ""A metrics-based look at disk images: Insights and applications""
+}
+```",MassDiskProcessor,2025,created,academic_research_DFRWS,https://github.com/lenavoigt/mass-disk-processor,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""A step in a new direction: NVIDIA GPU kernel driver memory forensics""
+}
+```",NVSYMMAP,2024,created,academic_research_DFRWS,https://github.com/LSUACL/GPU-Forensics/tree/main/NVSYMMAP,Github,repository platform,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""A study of user data integrity during acquisition of Android devices""
+}
+```",Android Extractor,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A study of user data integrity during acquisition of Android devices""
+}
+```",CRMI (Custom Recovery Mode Image),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A study on the evolution of kernel data types used in memory forensics and their dependency on compilation options""
+}
+```",custom tool,,created,academic_research_DFRWS,https://github.com/eurecom-s3/structdiffing,Github,repository platform,accessible,no recent activity," Dec 2, 2024",open-source,
+"```json
+{
+    ""title"": ""A system for the proactive, continuous, and efï¬cient collection of digital forensic evidence""
+}
+```",PROOFS,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""A systematic approach to understanding MACB timestamps on Unix-like systems""
+}
+```",os_timestamps,2022,created,academic_research_DFRWS,https://github.com/QuoSecGmbH/os_timestamps,Github,repository platform,accessible,recent activity,14-Oct-24,open-source,
+"```json
+{
+    ""title"": ""About the applicability of Apache2 web server memory forensics""
+}
+```",custom framework,2023,created,academic_research_DFRWS,https://github.com/fkie-cad/apache2-memory-forensics-paper-material,Github,repository platform,accessible,no recent activity,18-Oct-23,open-source,
+"```json
+{
+    ""title"": ""Advanced evidence collection and analysis of web browser activity5""
+}
+```",WEFA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_interest_handlers,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_timers,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_devfs,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_check_fop,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_vfsevents,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_kevents,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Advancing Mac OS X rootkit detection""
+}
+```",mac_kernel_classes,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""AFEIC: Advanced forensic Ext4 inode carving""
+}
+```",Ext4 file recovery module,2017,created,academic_research_DFRWS,https://www1.cs.fau.de/content/ext4-file-recovery,Research-group website,webpage,accessible,no recent activity,unknown,open-source,
+"```json
+{
+    ""title"": ""AFF4-L: A Scalable Open Logical Evidence Container""
+}
+```",pyAFF4,2019,created,academic_research_DFRWS,https://github.com/aff4/pyaff4,Github,repository platform,accessible,recent activity,2025,open-source,
+"```json
+{
+    ""title"": ""Alt-tech social forensics: Forensic analysis of alternative social networking applications""
+}
+```",Alternative Social Networking Applications Analysis Tool (ASNAAT),,created,academic_research_DFRWS,https://github.com/unhcfreg/ASNAAT.git,Github,repository platform,accessible,no recent activity,2022,open-source,
+"```json
+{
+    ""title"": ""An Argumentation-Based Reasoner to Assist Digital Investigation and Attribution of Cyber-Attacks""
+}
+```",Argumentation-Based Reasoner (ABR),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""An automated timeline reconstruction approach for digital forensic investigations""
+}
+```",Python Digital Forensic Timeline (PyDFT),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""An overall assessment of Mobile Internal Acquisition Tool""
+}
+```",Mobile Internal Acquisition Tool (MIAT),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Android forensics: Automated data collection and reporting from a mobile device""
+}
+```",DroidWatch,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Anti-forensics in ext4: On secrecy and usability of timestamp-based data hiding""
+}
+```",ext4-timestamp-magic,2018,created,academic_research_DFRWS,https://github.com/dasec/ext4-timestamp-magic,Github,repository platform,accessible,no recent activity,2019,open-source,
+"```json
+{
+    ""title"": ""Applying digital stratigraphy to the problem of recycled storage media""
+}
+```",File System Activity Simulator,,created,academic_research_DFRWS,https://github.com/janineschneider/Digital-Stratigraphy,Github,repository platform,accessible,recent activity,4-Jul-24,open-source,
+"```json
+{
+    ""title"": ""Applying digital stratigraphy to the problem of recycled storage media""
+}
+```",get_fsub_info.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Applying digital stratigraphy to the problem of recycled storage media""
+}
+```",check_for_old_data.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Applying digital stratigraphy to the problem of recycled storage media""
+}
+```",df_digger.py,2024,created,academic_research_DFRWS,https://github.com/janineschneider/Digital-Stratigraphy,Github,repository platform,accessible,recent activity,2024,open-source,
+"```json
+{
+    ""title"": ""Augmenting password recovery with online proï¬ling""
+}
+```",web crawler,2011,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated computer forensics training in a virtualized environment""
+}
+```",CYber DEfenSe Trainer (CYDEST),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated computer forensics training in a virtualized environment""
+}
+```",Virtual Network Builder (VNB),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated computer forensics training in a virtualized environment""
+}
+```",Fordroid,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated identification of installed malicious Android applications""
+}
+```",Tractor Beam,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated identification of installed malicious Android applications""
+}
+```",Analysis Framework,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated mapping of large binary objects using primitive fragment type classification""
+}
+```",binmap,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automatic profile generation for live Linux Memory analysis""
+}
+```",Layout Expert,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Beyond the dictionary attack: Enhancing password cracking efficiency through machine learning-induced mangling rules""
+}
+```",RuleForge,2025,created,academic_research_DFRWS,https://github.com/nesfit/RuleForge/,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Beyond timestamps: Integrating implicit timing information into digital forensic timelines""
+}
+```",hyper timeline,2024,created,academic_research_DFRWS,https://github.com/hypertimeline/hypertimeline,Github,repository platform,accessible,recent activity,11-Jul-24,open-source,
+"```json
+{
+    ""title"": ""Bike computer forensics: An efficient and robust method for FIT file recovery""
+}
+```",BikeComputer_FIT_file_Recovery,2023,created,academic_research_DFRWS,https://github.com/kyl3song/BikeComputer_FIT_file_Recovery,Github,repository platform,accessible,no recent activity,15-Oct-23,open-source,
+"```json
+{
+    ""title"": ""Bin-Carver: Automatic recovery of binary executable ï¬les""
+}
+```",Bin-Carver,2012,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""BinComp: A strati ï¬ed approach to compiler provenance Attribution*""
+}
+```",BinComp,2015,created,academic_research_DFRWS,https://github.com/BinSigma/BinComp,Github,repository platform,accessible,no recent activity,23-Apr-15,open-source,
+"```json
+{
+    ""title"": ""BinGold : Towards robust binary analysis by extracting the semantics of binary code as semantic flow graphs (SFGs)*""
+}
+```",BinGold,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""BlackFeather: A framework for background noise forensics""
+}
+```",BlackFeather,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""BlockQuery: Toward forensically sound cryptocurrency investigation""
+}
+```",BlockQuery,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""BMCLeech: Introducing Stealthy Memory Forensics to BMC""
+}
+```",BMCLeech,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""BMCLeech: Introducing Stealthy Memory Forensics to BMC""
+}
+```",libaspeedxdma,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""bring2lite: A Structural Concept and Tool for Forensic Data Analysis and Recovery of Deleted SQLite Records""
+}
+```",bring2lite,2019,created,academic_research_DFRWS,https://github.com/bring2lite/bring2lite,Github,repository platform,accessible,no recent activity,5-Aug-19,open-source,
+"```json
+{
+    ""title"": ""Carving database storage to detect and trace security breaches""
+}
+```",DBDetective,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""CAT Detect (Computer Activity Timeline Detection): A tool for detecting inconsistency in computer activity timelines""
+}
+```",CAT Detect,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""CATCH: Cloud Data Acquisition through Comprehensive and Hybrid Approaches""
+}
+```",CATCH,2022,created,academic_research_DFRWS,https://github.com/dfrc-korea/CATCH_OneDrive,Github,repository platform,accessible,no recent activity,21-Sep-22,open-source,
+"```json
+{
+    ""title"": ""Certificate Injection-Based Encrypted Traffic Forensics in AI Speaker Ecosystem""
+}
+```",Verification Tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Characteristics and detectability of Windows auto-start extensibility points in memory forensics""
+}
+```",Winesap,2019,created,academic_research_DFRWS,https://gitlab.unizar.es/rrodrigu/winesap,Gitlab,repository platform,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Chip chop dsmashing the mobile phone secure chip for fun and digital forensics""
+}
+```",chip_breaker,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Chracer : Memory analysis of Chromium-based browsers""
+}
+```",Chracer,2023,created,academic_research_DFRWS,https://github.com/geun-yeong/Chracer,Github,repository platform,accessible,recent activity,18-Oct-24,open-source,
+"```json
+{
+    ""title"": ""Coffee forensics dReconstructing data in IoT devices running Contiki OS""
+}
+```",COFFOR,2021,created,academic_research_DFRWS,https://github.com/jenspets/coffor,Github,repository platform,accessible,no recent activity,23-Jun-21,open-source,
+"```json
+{
+    ""title"": ""Combining AI and AM eImproving approximate matching through transformer networks""
+}
+```",Deep Learning Approximate Matching (DLAM),2023,created,academic_research_DFRWS,https://github.com/warlmare/DLAM,Github,repository platform,accessible,no recent activity,11-Jul-23,open-source,
+"```json
+{
+    ""title"": ""Comprehending the IoT cyber threat landscape: A data dimensionality reduction technique to infer and characterize Internet-scale IoT probing campaigns""
+}
+```",L1-norm PCA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Computer forensic timeline visualization tool""
+}
+```",CyberForensic TimeLab,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Control Logic Forensics Framework using Built-in Decompiler of Engineering Software in Industrial Control Systems""
+}
+```",Reditus,2020,created,academic_research_DFRWS,https://gitlab.com/sqasim1/reditus-framework,Gitlab,repository platform,accessible,no recent activity,27-Mar-20,open-source,
+"```json
+{
+    ""title"": ""Cooperative mode: Comparative storage metadata veriï¬cation applied to the Xbox 360""
+}
+```",FSNView,2014,created,academic_research_DFRWS,https://github.com/ajnelson/fsnview,Github,repository platform,accessible,no recent activity,4-Aug-14,open-source,
+"```json
+{
+    ""title"": ""Cooperative mode: Comparative storage metadata veriï¬cation applied to the Xbox 360""
+}
+```",UPartsFS,,created,academic_research_DFRWS,https://github.com/ajnelson/upartsfs,Github,repository platform,accessible,no recent activity,7-Feb-14,open-source,
+"```json
+{
+    ""title"": ""cRGB_Mem : At the intersection of memory forensics and machine learning""
+}
+```",RGB_Mem,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Cyber Grand Challenge (CGC) monitor: A vetting system for the DARPA cyber grand challenge""
+}
+```",CGC Monitor,,created,academic_research_DFRWS,https://github.com/mfthomps/cgc-monitor,Github,repository platform,accessible,no recent activity,29-Apr-19,open-source,
+"```json
+{
+    ""title"": ""Extensible and scalable system for hash lookup and approximate similarity search with similarity digest algorithms""
+}
+```",APOTHEOSIS,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Data-driven approach for automatic telephony threat analysis and campaign detection""
+}
+```",Telephony Abuse Intelligence Framework (TAINT),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Data remnants analysis of document files in Windows: Microsoft 365 as a case study""
+}
+```",DRFT,2023,created,academic_research_DFRWS,https://github.com/tmpdrft/drft,Github,repository platform,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Database forensic analysis through internal structure carving""
+}
+```",Universal Database Carving Tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Database image content explorer: Carving data that does not ofï¬cially exist""
+}
+```",Database Image Content Explorer (DICE),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""DB3F &DF-Toolkit: The Database Forensic File Format and the Database Forensic Toolkit""
+}
+```",Database Forensic File Format (DB3F),2019,created,academic_research_DFRWS,http://dbgroup.cdm.depaul.edu/DF-Toolkit.html,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""dbling: Identifying extensions installed on encrypted web thin clients""
+}
+```",dbling,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": "" Dead Man's Switch: Forensic Autopsy of the Nintendo Switch""
+}
+```",Autopsy modules,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Decrypting IndexedDB in private mode of Gecko-based browsers""
+}
+```",Gecko IndexedDB CacheAPI decryptor,,created,academic_research_DFRWS,https://github.com/esrever98/Gecko-IndexedDB-CacheAPI-Decryptor,Github,repository platform,accessible,recent activity,2024,open-source,
+"```json
+{
+    ""title"": ""Deleted ï¬le fragment dating by analysis of allocated neighbors""
+}
+```",C# application,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Deleting collected digital evidence by exploiting a widely adopted hardware write blocker""
+}
+```",process.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Deleting collected digital evidence by exploiting a widely adopted hardware write blocker""
+}
+```",callprocess.sh,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Design and implementation of FROST: Digital forensic tools for the OpenStack cloud computing platform""
+}
+```",FROST,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Detecting data theft using stochastic forensics""
+}
+```",Simulation Model,2011,created,academic_research_DFRWS,http://grierforensics.com/datatheft/sim/,personal website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""DEX: Digital evidence provenance supporting reproducibility and comparison""
+}
+```",DEX,2009,created,academic_research_DFRWS,http://prisms.cs.umass.edu/forensics,research-group website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""DiagAnalyzer: User behavior analysis and visualization using Windows Diagnostics logs""
+}
+```",DiagAnalyzer,2022,created,academic_research_DFRWS,https://github.com/L4wk3R/DiagAnalyzer,Github,repository platform,accessible,no recent activity,30-Apr-22,open-source,
+"```json
+{
+    ""title"": ""DIALOG: A framework for modeling, analysis and reuse of digital forensic knowledge""
+}
+```",DIALOG,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital forensic approaches for Amazon Alexa ecosystem""
+}
+```",CIFT,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital forensic approaches for metaverse ecosystems""
+}
+```",Metaverse Digital Forensic Tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital Forensic Practices and Methodologies for AI Speaker Ecosystems""
+}
+```",Forensic tool for collecting user command history for NAVER Clova,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital investigations for IPv6-based Wireless Sensor Networks""
+}
+```",BooTTY,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital investigations for IPv6-based Wireless Sensor Networks""
+}
+```",Ball,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital investigations for IPv6-based Wireless Sensor Networks""
+}
+```",analysis tool for RAM dumps,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Discovering spoliation of evidence through identifying traces on deleted ï¬les in macOS""
+}
+```",self-developed tool,2023,created,academic_research_DFRWS,https://github.com/blackmax90/TraceEvidence-on-macOS,Github,repository platform,accessible,no recent activity,9-Jul-23,open-source,
+"```json
+{
+    ""title"": ""Distributed forensics and incident response in the enterprise""
+}
+```",GRR Rapid Response Framework,2011,created,academic_research_DFRWS,https://github.com/google/grr,Github,repository platform,accessible,recent activity,26-May,open-source,
+"```json
+{
+    ""title"": ""Do You â€œRelay â€ Want to Give Me Away? â€“ Forensic Cues of Smart Relays and Their IoT Companion Apps""
+}
+```",Tool for Evidence Acquisition from Smart Relays (TEASR),2024,created,academic_research_DFRWS,https://github.com/mxchhrn/teasr,Github,repository platform,accessible,recent activity,26-May,open-source,
+"```json
+{
+    ""title"": ""DroidKex: Fast extraction of ephemeral TLS keys from the memory of Android apps""
+}
+```",DroidKex,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""DroidKex: Fast extraction of ephemeral TLS keys from the memory of Android apps""
+}
+```",eDroidKex,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""DROP (DRone Open source Parser) your drone: Forensic analysis of the DJI Phantom III""
+}
+```",DROP,2017,created,academic_research_DFRWS,https://github.com/unhcfreg/DROP,Github,repository platform,accessible,no recent activity,23-Dec-17,open-source,
+"```json
+{
+    ""title"": ""Duck Hunt: Memory forensics of USB attack platforms""
+}
+```",usbhunt,2021,created,academic_research_DFRWS,https://github.com/unhcfreg/DuckHunt,Github,repository platform,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Duck Hunt: Memory forensics of USB attack platforms""
+}
+```",dhcphunt,2021,created,academic_research_DFRWS,https://github.com/unhcfreg/DuckHunt,Github,repository platform,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Dynamic recreation of kernel data structures for live forensics""
+}
+```",RAMPARSER,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""E-mail authorship attribution using customized associative classification""
+}
+```",CMARAA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Evaluating atomicity, and integrity of correct memory acquisition methods""
+}
+```",RAMMANGL.EXE,,created,academic_research_DFRWS,https://www1.cs.fau.de/projects/rammangler,research-group website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Every step you take, I'll be tracking you: Forensic analysis of the tile tracker application""
+}
+```",Tile Artifact Parser (TAP),2023,created,academic_research_DFRWS,https://github.com/BiTLab-BaggiliTruthLab/TAP,Github,repository platform,accessible,no recent activity,12-Jun-23,open-source,
+"```json
+{
+    ""title"": ""Evidence gathering for network security and forensics""
+}
+```",evidence gathering framework,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""EviPlant: An ef ï¬cient digital forensic challenge creation, manipulation and distribution solution""
+}
+```",EviPlant,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""EviPlant: An ef ï¬cient digital forensic challenge creation, manipulation and distribution solution""
+}
+```",difï¬ng tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""EviPlant: An ef ï¬cient digital forensic challenge creation, manipulation and distribution solution""
+}
+```",injection tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Expanding digital forensics education with artifact curation and scalable, accessible exercises via the Artifact Genome Project""
+}
+```",Artifact Genome Project (AGP),,created,academic_research_DFRWS,https://agp.newhaven.edu/,research-group website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Experience constructing the Artifact Genome Project (AGP): Managing the domain's knowledge one artifact at a time""
+}
+```",Artifact Genome Project (AGP),2023,created,academic_research_DFRWS,https://agp.newhaven.edu,research-group website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Extracting the windows clipboard from physical memory""
+}
+```",CMAT,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Extracting Windows command line details from physical memory""
+}
+```",cmd_history.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application""
+}
+```",Windows Memory Extractor,2022,created,academic_research_DFRWS,https://github.com/reverseame/windows-memory-extractor,Github,repository platform,accessible,no recent activity,3-Jul-23,open-source,
+"```json
+{
+    ""title"": ""Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application""
+}
+```",IM Artifact Finder,2022,created,academic_research_DFRWS,https://github.com/reverseame/instant-messaging-artifact-finder,Github,repository platform,accessible,no recent activity,10-Dec-21,open-source,
+"```json
+{
+    ""title"": ""FACE: Automated digital evidence discovery and correlation""
+}
+```",ramparser,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Facilitating Electromagnetic Side-Channel Analysis for IoT Investigation: Evaluating the EMvidence Framework""
+}
+```",EMvidence,2020,created,academic_research_DFRWS,https://github.com/asanka-code/EMvidence,Github,repository platform,accessible,no recent activity,4-Jun-20,open-source,
+"```json
+{
+    ""title"": ""FbHash: A New Similarity Hashing Scheme for Digital Forensics""
+}
+```",FbHash,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""File fragment encoding classi ï¬cationdAn empirical approach""
+}
+```",zsniff,2013,created,academic_research_DFRWS,http://roussev.net/zsniff,personal website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Finding and identifying text in 900 Ã¾languages""
+}
+```",LA-Strings,2012,created,academic_research_DFRWS,http://la-strings.sourceforge.net/,SourceForge,repository platform,accessible,no recent activity,Last Update: 2023-07-25,open-source,
+"```json
+{
+    ""title"": ""Fingerprinting Android packaging: Generating DNAs for malware detection""
+}
+```",APK-DNA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Fingerprinting Android packaging: Generating DNAs for malware detection""
+}
+```",ROAR,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Force Open: Lightweight black box ï¬le repair""
+}
+```",Force Open,2017,created,academic_research_DFRWS,https://github.com/ldpi/forceopen,Github,repository platform,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Forensic analysis for AI speaker with display Echo Show 2nd generation as a case study""
+}
+```",Cloud-based IoT Forensic Toolkit (CIFT),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Forensic analysis of cloud-native artifacts""
+}
+```",kumodocs,2016,created,academic_research_DFRWS,https://github.com/kumofx/kumodocs,Github,repository platform,accessible,recent activity,24-Nov-25,open-source,
+"```json
+{
+    ""title"": ""Forensic analysis of ReFS journaling""
+}
+```",Awesome ReFS Investigation tool (ARIN),2021,created,academic_research_DFRWS,https://github.com/horensic/ARIN,Github,repository platform,accessible,no recent activity,9-Aug-20,open-source,
+"```json
+{
+    ""title"": ""Forensic analysis of SQL server transaction log in unallocated area of file system""
+}
+```",SQL Transaction Log Parser,2023,created,academic_research_DFRWS,https://github.com/dbforensic/sql-transaction-log-parser,Github,repository platform,accessible,no recent activity,11-May-23,open-source,
+"```json
+{
+    ""title"": ""Forensic Analysis of the Resilient File System (ReFS) Version 3.4""
+}
+```",page carver,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Forensic feature extraction and cross-drive analysis""
+}
+```",feature extractors,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Forensic feature extraction and cross-drive analysis""
+}
+```",Multi-Drive Correlator (MDC),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Forensic investigation of Google Meet for memory and browser artifacts""
+}
+```",memory artifact extraction tool,2022,created,academic_research_DFRWS,https://github.com/farkhund/googlemeet,Github,repository platform,accessible,no recent activity,18-Jul-22,open-source,
+"```json
+{
+    ""title"": ""Forensic investigation of peer-to-peer ï¬le sharing networks""
+}
+```",RoundUp,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""ForensicLLM: A local large language model for digital forensics""
+}
+```",ForensicLLM,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Forensics acquisition dAnalysis and circumvention of samsung secure boot enforced common criteria mode""
+}
+```",Exploit based on SBOOT vulnerability,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""ForTrace - A holistic forensic data set synthesis framework""
+}
+```",ForTrace,2022,created,academic_research_DFRWS,https://github.com/dasec/ForTrace,Github,repository platform,accessible,no recent activity,28-Aug-22,open-source,
+"```json
+{
+    ""title"": ""FORZA â€“ Digital forensics investigation framework that incorporate legal issues""
+}
+```",FORZA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""FRASH: A framework to test algorithms of similarity hashing""
+}
+```",FRASH,2013,created,academic_research_DFRWS,https://www.dasec.h-da.de/staff/breitinger-frank/#downloads,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""FRASHER eA framework for automated evaluation of similarity hashing""
+}
+```",FRASHER,2022,created,academic_research_DFRWS,https://github.com/warlmare/FRASHER,Github,repository platform,accessible,recent activity,15-Jun-25,open-source,
+"```json
+{
+    ""title"": ""Gaslight: A comprehensive fuzzing architecture for memory forensics frameworks""
+}
+```",Gaslight,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""GBKPA and AuxShield: Addressing adversarial robustness and transferability in android malware detection""
+}
+```",Gradient Based K Perturbation Attack (GBKPA),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""GBKPA and AuxShield: Addressing adversarial robustness and transferability in android malware detection""
+}
+```",AuxShield,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Generic Metadata Time Carving""
+}
+```",cPTS,2020,created,academic_research_DFRWS,https://github.com/RuneN007/cPTS,Github,repository platform,accessible,no recent activity,13-Aug-20,open-source,
+"```json
+{
+    ""title"": ""Generic Metadata Time Carving""
+}
+```",NTFS semantic parser,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Generic Metadata Time Carving""
+}
+```",Ext4 semantic parser,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Generic RAID reassembly using block-level entropy""
+}
+```",open source prototype,2016,created,academic_research_DFRWS,https://www1.informatik.uni-erlangen.de/content/forensic-raid-recovery/,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Ghost protocol eSnapchat as a method of surveillance""
+}
+```",developed scripts,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Grand theft API: A forensic analysis of vehicle cloud data""
+}
+```",gta.py,2024,created,academic_research_DFRWS,https://github.com/FHMS-ITS/Grand_Theft_API,Github,repository platform,accessible,recent activity,16-Mar-24,open-source,
+"```json
+{
+    ""title"": ""GreenForensics: Deep hybrid edge-cloud detection and forensics system for battery-performance-balance conscious devices""
+}
+```",GreenForensics,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""GreenForensics: Deep hybrid edge-cloud detection and forensics system for battery-performance-balance conscious devices""
+}
+```",WinDRo,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Leveraging memory forensics to investigate and detect illegal 3D printing activities""
+}
+```",SliceSnap,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Leveraging memory forensics to investigate and detect illegal 3D printing activities""
+}
+```",G-parser,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Hash-based carving: Searching media for complete ï¬les and ï¬le fragments with sector hashing and hashdb""
+}
+```",hashdb,2015,created,academic_research_DFRWS,https://github.com/simsong/hashdb.git,Github,repository platform,accessible,no recent activity,21-Mar-19,open-source,
+"```json
+{
+    ""title"": ""Hiding Process Memory Via Anti-Forensic Techniques""
+}
+```",Rekall plugins,2020,created,academic_research_DFRWS,https://github.com/DFRWS-memory-subversion/DFRWS-USA-2020,Github,repository platform,accessible,no recent activity,5-Aug-20,open-source,
+"```json
+{
+    ""title"": ""High-speed search using Tarari content processor in digital forensics""
+}
+```",HSFS (High Speed Forensic System),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Hit and run: Forensic vehicle event reconstruction through driver-based cloud data from Progressive â€™s snapshot application""
+}
+```",PyShot,2024,created,academic_research_DFRWS,https://github.com/npseudo1806/pyShot/tree/master,Github,repository platform,accessible,recent activity,5-Feb-24,open-source,
+"```json
+{
+    ""title"": ""HookTracer: A System for Automated and Accessible API Hooks Analysis""
+}
+```",hooktracer,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Hviz: HTTP(S) traf ï¬c aggregation and visualization for network forensics""
+}
+```",Hviz,2015,created,academic_research_DFRWS,http://hviz.gugelmann.com,personal website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Identification of data wiping tools based on deletion patterns in ReFS $Logfile""
+}
+```",ReFS_Detector,2023,created,academic_research_DFRWS,https://github.com/jamemanionda/ReFS_Detector,Github,repository platform,accessible,recent activity,7-Mar-24,open-source,
+"```json
+{
+    ""title"": ""Identifying almost identical files using context triggered piecewise hashing""
+}
+```",ssdeep,2006,created,academic_research_DFRWS,http://ssdeep.sourceforge.net/,SourceForge,repository platform,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Image-based kernel ï¬ngerprinting""
+}
+```",sdkernel,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Improved recovery and reconstruction of DEFLATEd ï¬les""
+}
+```",ZipRec 1.0,2013,created,academic_research_DFRWS,http://ziprec.sourceforge.net/,SourceForge,repository platform,accessible,no recent activity,4/27/2014,open-source,
+"```json
+{
+    ""title"": ""Improving trace synthesis by utilizing computer vision for user action emulation""
+}
+```",pyautoqemu,2023,created,academic_research_DFRWS,https://wiwi-gitlab.uni-muenster.de/itsecurity/pyautoqemu,Gitlab,repository platform,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""In lieu of swap: Analyzing compressed RAM in Mac OS X and Linux""
+}
+```",mac_compressed_swap,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""In lieu of swap: Analyzing compressed RAM in Mac OS X and Linux""
+}
+```",mac_dump_maps,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""In lieu of swap: Analyzing compressed RAM in Mac OS X and Linux""
+}
+```",linux_compressed_swap,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""In lieu of swap: Analyzing compressed RAM in Mac OS X and Linux""
+}
+```",linux_dump_maps,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""In the time loop: Data remanence in main memory of virtual machines""
+}
+```",writeDATA,2024,created,academic_research_DFRWS,https://github.com/ella-savchenko/InTheTimeLoop.git,Github,repository platform,accessible,recent activity,14-May-24,open-source,
+"```json
+{
+    ""title"": ""Inception: Virtual Space in Memory Space in Real Space eMemory Forensics of Immersive Virtual Reality with the HTC Vive""
+}
+```",Vivedump,2019,created,academic_research_DFRWS,https://github.com/unhcfreg/VR4Sec,Github,repository platform,accessible,no recent activity,14-Aug-19,open-source,
+"```json
+{
+    ""title"": ""Information assurance in a distributed forensic cluster""
+}
+```",FCluster,,created,academic_research_DFRWS,http://www.fcluster.org.uk,personal website,webpage,accessible,no recent activity,14-Aug-19,open-source,
+"```json
+{
+    ""title"": ""Information assurance in a distributed forensic cluster""
+}
+```",FClusterfs,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Insider threat prediction based on unsupervised anomaly detection scheme for proactive forensic investigation""
+}
+```",Cascaded Autoencoders (CAEs),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Insider threat prediction based on unsupervised anomaly detection scheme for proactive forensic investigation""
+}
+```",Hypergraph Correction Module,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Integrity verification of user space code""
+}
+```",hashbuild.py,,created,academic_research_DFRWS,https://github.com/a-white,Github,repository platform,accessible,no recent activity,7-Aug-13,open-source,
+"```json
+{
+    ""title"": ""Integrity verification of user space code""
+}
+```",hashtest.py,2013,created,academic_research_DFRWS,https://github.com/a-white,Github,repository platform,accessible,no recent activity,7-Aug-13,open-source,
+"```json
+{
+    ""title"": ""IntroLib: Efï¬ cient and transparent library call introspection for malware forensics""
+}
+```",IntroLib,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""InVEST: Intelligent visual email search and triage""
+}
+```",InVEST,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""IoT forensic challenges and opportunities for digital traces""
+}
+```",iSmartAlarm Plugin,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""IoT forensic challenges and opportunities for digital traces""
+}
+```",QBee Camera Plugin,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""IoT forensic challenges and opportunities for digital traces""
+}
+```",Standalone Python Script for iSmartAlarm,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""IoT network traf ï¬c analysis: Opportunities and challenges for forensic investigators?""
+}
+```",IoT Network Analyzer,2021,created,academic_research_DFRWS,https://github.com/Dyvels/IoTAnalyzer,Github,repository platform,accessible,no recent activity,26-May-20,open-source,
+"```json
+{
+    ""title"": ""Exploiting database storage for data exfiltration""
+}
+```",Hidden Database Records (NtJZ),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Your forensic AI-assistant, SERENA: Systematic extraction and reconstruction for enhanced A2P message forensics""
+}
+```",SERENA,2025,created,academic_research_DFRWS,https://github.com/jieonk/SERENA,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""JTAG-based PLC memory acquisition framework for industrial control systems""
+}
+```",Kyros,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Juicing V8: A primary account for the memory forensics of the V8 JavaScript engine""
+}
+```",V8MapScan,2022,created,academic_research_DFRWS,https://github.com/unhcfreg/V8-Memory-Forensics-Plugins,Github,repository platform,accessible,no recent activity,22-Jun-23,open-source,
+"```json
+{
+    ""title"": ""Key-hiding on the ARM platform""
+}
+```",key_research,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""KVMIveggur : Flexible, secure, and ef ï¬cient support for self-service virtual machine introspection""
+}
+```",KVMIveggur,2022,created,academic_research_DFRWS,https://github.com/smartvmi/KVMIveggur,Github,repository platform,accessible,no recent activity,5-Aug-21,open-source,
+"```json
+{
+    ""title"": ""Out of Control: Igniting SCADA investigations with an HMI forensics framework and the ignition forensics artifact carving tool (IFACT)""
+}
+```",IFACT,2025,created,academic_research_DFRWS,https://github.com/LaSeanS/IFACT,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Leaving timing-channel ï¬ngerprints in hidden service log ï¬les""
+}
+```",Reed Solomon code,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Lessons learned from the construction of a Korean software reference data set for digital forensics""
+}
+```",KRDS Manager,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,proprietary,
+"```json
+{
+    ""title"": ""Lest we forget: Cold-boot attacks on scrambled DDR3 memory""
+}
+```",DDR3descramble,2016,created,academic_research_DFRWS,https://www1.informatik.uni-erlangen.de/filepool/mem/ddr3descramble.tar.gz,project/personal server,archive download,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Leveraging relocations in ELF-binaries for Linux kernel version identi ï¬cation""
+}
+```",codeid-elf,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Leveraging the SRTP protocol for over-the-network memory acquisition of a GE Fanuc Series 90-30""
+}
+```",GE-SRTP plugin for Wireshark,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Leveraging the SRTP protocol for over-the-network memory acquisition of a GE Fanuc Series 90-30""
+}
+```",Forensic tool for GE Fanuc Series 90-30,2017,created,academic_research_DFRWS,https://www.unhcfreg.com/datasetsandtools,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""LibDroid: Summarizing information ï¬‚ow of android native libraries via static analysis""
+}
+```",LibDroid,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Limewire examinations""
+}
+```",Ascan,2008,created,academic_research_DFRWS,not provided,not observable,restricted distribution,restricted,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""LINCS: Towards building a trustworthy litigation hold enabled cloud storage system""
+}
+```",LINCS,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""LINCS: Towards building a trustworthy litigation hold enabled cloud storage system""
+}
+```",litigation hold verification tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Linux memory forensics: Dissecting the user space process heap""
+}
+```",heapinfo,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Linux memory forensics: Dissecting the user space process heap""
+}
+```",heapdump,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Linux memory forensics: Dissecting the user space process heap""
+}
+```",heapsearch,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Linux memory forensics: Dissecting the user space process heap""
+}
+```",heaprefs,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Live memory forensics of mobile phones""
+}
+```",memgrab,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Live memory forensics of mobile phones""
+}
+```",Chat Bot,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Live memory forensics of mobile phones""
+}
+```",Message Script Generator (MSG),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""LogExtractor: Extracting digital evidence from android log messages via string and taint analysis""
+}
+```",LogExtractor,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Uncovering Linux Desktop Espionage""
+}
+```",xevents,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Uncovering Linux Desktop Espionage""
+}
+```",xinputextensions,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Uncovering Linux Desktop Espionage""
+}
+```",xclients,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Uncovering Linux Desktop Espionage""
+}
+```",pipewire,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Uncovering Linux Desktop Espionage""
+}
+```",v4l2,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated NoSQL database carver""
+}
+```",FUVI,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""MalDozer: Automatic framework for android malware detection using deep learning""
+}
+```",MalDozer,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""MalDy: Portable, data-driven malware detection using natural language processing and machine learning techniques on behavioral analysis reports""
+}
+```",MalDy,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Malware family classification via efficient Huffman features""
+}
+```",eHf,2021,created,academic_research_DFRWS,https://anonymous.4open.science/r/068ed7f6-7957-4440-87cf-350b71e8feae/,Github,repository platform,accessible,no recent activity,12-Mar-21,open-source,
+"```json
+{
+    ""title"": ""MARS : The first line of defense for IoT incident response""
+}
+```",MARS,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""md5bloom : Forensic ï¬lesystem hashing revisited""
+}
+```",md5bloom,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""MEGA: A tool for Mac OS X operating system and application forensics""
+}
+```",MEGA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory analysis of .NET and .Net Core applications""
+}
+```",dotnet_memory_only,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory analysis of .NET and .Net Core applications""
+}
+```",dotnet_amsi,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory analysis of .NET and .Net Core applications""
+}
+```",dotnet_fields,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory analysis of .NET and .Net Core applications""
+}
+```",dotnet_field_values,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory analysis of .NET and .Net Core applications""
+}
+```",dotnet_il_methods,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory analysis of .NET and .Net Core applications""
+}
+```",dotnet_class_references,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory Analysis of macOS Page Queues""
+}
+```",mac_walkqs,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory Analysis of macOS Page Queues""
+}
+```",mac_find_page,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensic analysis of a programmable logic controller in industrial control systems""
+}
+```",Memory Analysis Profile,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picolist,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picoscan,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picothreads,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picothrdscan,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picoelfflist,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picoelfdump,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picoldrmodules,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picolsof,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory forensics and the Windows Subsystem for Linux""
+}
+```",picobash,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Memory FORESHADOW: Memory FOREnSics of HArDware CryptOcurrency wallets eA Tool and Visualization Framework""
+}
+```",FORESHADOW,2020,created,academic_research_DFRWS,https://github.com/UNHcFREG/FORESHADOW,Github,repository platform,accessible,no recent activity,31-Mar-20,open-source,
+"```json
+{
+    ""title"": ""MIC: Memory analysis of IndexedDB data on Chromium-based applications""
+}
+```",MIC,2024,created,academic_research_DFRWS,https://github.com/naaya17/MIC,Github,repository platform,accessible,recent activity,14-Oct-24,open-source,
+"```json
+{
+    ""title"": ""Modern ships Voyage Data Recorders: A forensics perspective on the Costa Concordia shipwreck""
+}
+```",custom Python script,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Modern ships Voyage Data Recorders: A forensics perspective on the Costa Concordia shipwreck""
+}
+```",Bourne Shell scripts,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Module extraction and DLL hijacking detection via single or multiple memory dumps""
+}
+```",Modex,2023,created,academic_research_DFRWS,https://github.com/reverseame/modex,Github,repository platform,accessible,no recent activity,13-Jun-23,open-source,
+"```json
+{
+    ""title"": ""Module extraction and DLL hijacking detection via single or multiple memory dumps""
+}
+```",Intermodex,2023,created,academic_research_DFRWS,https://github.com/reverseame/modex,Github,repository platform,accessible,no recent activity,13-Jun-23,open-source,
+"```json
+{
+    ""title"": ""Monitoring an anonymity network: Toward the deanonymization of hidden services""
+}
+```",i2pnode,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Multidimensional investigation of source port 0 probing""
+}
+```",TCPdumpfilter,2014,created,academic_research_DFRWS,http://www.danielmiessler.com/study/tcpdump/,personal website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Network and device forensic analysis of Android social-messaging applications""
+}
+```",Datapp,2015,created,academic_research_DFRWS,https://www.unhcfreg.com,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Network forensic investigation in OpenFlow networks with ForCon""
+}
+```",ForCon,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Neural AutoForensics: Comparing Neural Sample Search and Neural Architecture Search for malware detection and forensics""
+}
+```",DRo,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""New acquisition method based on firmware update protocols for Android smartphones""
+}
+```",Android Physical Dump (APD),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Nugget: A digital forensics language""
+}
+```",nugget,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""OBA2: An Onion approach to Binary code Authorship Attribution""
+}
+```",Register Flow Graph (RFG),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""On Challenges in Verifying Trusted Executable Files in Memory Forensics""
+}
+```",sigcheck,2020,created,academic_research_DFRWS,https://github.com/reversea-me/sigcheck,Github,repository platform,accessible,no recent activity," Jun 13, 2023",open-source,
+"```json
+{
+    ""title"": ""On enhancing memory forensics with FAME: Framework for advanced monitoring and execution""
+}
+```",Framework for Advanced Monitoring and Execution (FAME),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""On the database lookup problem of approximate matching""
+}
+```",mrsh-net,2014,created,academic_research_DFRWS,http://wp1187348.server-he.de/z_downloads/tool.zip,project/personal server,archive download,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""On the feasibility of binary authorship characterization""
+}
+```",BinChar,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""One key to rule them all: Recovering the master key from RAM to break Android's ï¬le-based encryption""
+}
+```",fbekeyrecover,2021,created,academic_research_DFRWS,https://www.cs1.tf.fau.de/research/system-security-group/one-key-to-rule/,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""OpenForensics: A digital forensics GPU pattern matching approach for the 21st century""
+}
+```",OpenForensics,2018,created,academic_research_DFRWS,https://github.com/ethanbayne/OpenForensics,Github,repository platform,accessible,no recent activity,30-Jun-22,open-source,
+"```json
+{
+    ""title"": ""OpenLV: Empowering investigators and ï¬rst-responders in the digital forensics process""
+}
+```",OpenLV,2014,created,academic_research_DFRWS,http://www.openlv.org/,project website,webpage,accessible,no recent activity,5/8/2014,open-source,
+"```json
+{
+    ""title"": ""Out of sight, but not out of mind: Traces of nearby devices â€™ wireless transmissions in volatile memory""
+}
+```",framescripts,2014,created,academic_research_DFRWS,http://oos.nontrivialpursuit.org/ogb/framescripts.tar.gz,project/personal server,archive download,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""PeekaTorrent : Leveraging P2P hash values for digital forensics""
+}
+```",PeekaTorrent,2016,created,academic_research_DFRWS,https://www.peekatorrent.org,project website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""PEM: Remote forensic acquisition of PLC memory in industrial control systems""
+}
+```",PEM,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""PHASER: Perceptual hashing algorithms evaluation and results - An open source forensic framework""
+}
+```",PHASER,2024,created,academic_research_DFRWS,https://GitHub.com/AabyWan/PHASER,Github,repository platform,accessible,recent activity,8-May-25,open-source,
+"```json
+{
+    ""title"": ""DFIR in orchestration Environments: Real-time forensic framework with eBPF for windowsPhilgeun""
+}
+```",eBPF-for-DFIR,2025,created,academic_research_DFRWS,https://github.com/capelabs/eBPF-for-DFIR,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Picking up the trash: Exploiting generational GC for memory analysis""
+}
+```",RecOOP,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Pool tag quick scanning for windows memory analysis""
+}
+```",psquickscan,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Pool tag quick scanning for windows memory analysis""
+}
+```",psscan,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""PREE: Heuristic builder for reverse engineering of network protocols in industrial control systems""
+}
+```",PREE,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Privacy-preserving email forensics""
+}
+```",PPEF (Privacy Preserving Email Forensics),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Problem solved: A reliable, deterministic method for JPEG fragmentation point detection""
+}
+```",JPEG validator,2024,created,academic_research_DFRWS,https://github.com/parsingdata/jpeg-fragments,Github,repository platform,accessible,recent activity,25-Mar-24,open-source,
+"```json
+{
+    ""title"": ""ProvNet-IoT: Provenance based network layer forensics in Internet of Things""
+}
+```",PCAP parser,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""PyFlag â€“ An advanced network forensic framework""
+}
+```",PyFlag,2008,created,academic_research_DFRWS,http://www.pyflag.net,project website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Ranking algorithms for digital forensic string search hits""
+}
+```",Sifter,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Rapid differential forensic imaging of mobile devices""
+}
+```",hawkeye,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Rapid forensic imaging of large disks with sifting collectors""
+}
+```",sifting collectors,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Rapid forensic imaging of large disks with sifting collectors""
+}
+```",HILPI,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Re-imagen: Generating coherent background activity in synthetic scenario-based forensic datasets using large language models""
+}
+```",Re-imagen,2024,created,academic_research_DFRWS,https://github.com/lenavoigt/re-imagen,Github,repository platform,accessible,recent activity,28-Mar-25,open-source,
+"```json
+{
+    ""title"": ""Reconstructing corrupt DEFLATEd ï¬les""
+}
+```",ZipRec,2011,created,academic_research_DFRWS,http://ziprec.sourceforge.net/,SourceForge,repository platform,accessible,no recent activity,Last Update: 2014-04-27,open-source,
+"```json
+{
+    ""title"": ""Recovering deleted data from the Windows registry""
+}
+```",reglookup-recover,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Recovery method of deleted records and tables from ESE database""
+}
+```",EDBForensic,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Recovery of heavily fragmented JPEG ï¬les""
+}
+```",CED,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Robust bootstrapping memory analysis against anti-forensics""
+}
+```",KPCR-based analysis,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Detecting hidden kernel modules in memory snapshots""
+}
+```",ModXRef,2025,created,academic_research_DFRWS,https://github.com/CrySyS/ModXRef,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Samsung tracking tag application forensics in criminal investigations""
+}
+```",S.TASER,2025,created,academic_research_DFRWS,https://github.com/eininondumak/S.TASER,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""SCADA network forensics of the PCCC protocol""
+}
+```",Cutter,2017,created,academic_research_DFRWS,https://github.com/ahmirf/cutter,Github,repository platform,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""SCARF: A container-based approach to cloud-scale digital forensic processing""
+}
+```",SCARF,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Seance: Divination of tool-breaking changes in forensically important binaries""
+}
+```",Seance,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Searching for processes and threads in Microsoft Windows memory dumps""
+}
+```",PTfinder,2006,created,academic_research_DFRWS,http://computer.forensikblog.de/en/2006/03/ptfinder_0_2_00.html,personal website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Secure USB bypassing tool""
+}
+```",Secure USB bypassing tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Selective and intelligent imaging using digital evidence bags""
+}
+```",Digital Evidence Bag (DEB),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Selective and intelligent imaging using digital evidence bags""
+}
+```",Selective/Intelligent Imager,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Selective deletion of non-relevant data""
+}
+```",Selective Deletion Plugin for Digital Forensics Framework (DFF),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Selective Imaging of File System Data on Live Systems""
+}
+```",SIT,,created,academic_research_DFRWS,https://gitlab.cs.fau.de/op64ycuz/sit,Gitlab,repository platform,accessible,no recent activity,5 years ago,open-source,
+"```json
+{
+    ""title"": ""SIGMA: A Semantic Integrated Graph Matching Approach for identifying reused functions in binary code""
+}
+```",SIGMA,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""So fresh, so clean: Cloud forensic analysis of the Amazon iRobot Roomba vacuum""
+}
+```",PyRoomba,2024,created,academic_research_DFRWS,https://github.com/BiTLab-BaggiliTruthLab/PyRoomba,Github,repository platform,accessible,no recent activity,1-Dec-23,open-source,
+"```json
+{
+    ""title"": ""SSHkex : Leveraging virtual machine introspection for extracting SSH keys and decrypting SSH network traf ï¬c""
+}
+```",SSHKex,2022,created,academic_research_DFRWS,https://github.com/smartvmi/SSHKex,Github,repository platform,accessible,no recent activity,5 years ago,open-source,
+"```json
+{
+    ""title"": ""Styx: Countering robust memory acquisition""
+}
+```",Styx,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Surveying the user space through user allocations""
+}
+```",Userspace.py,2012,created,academic_research_DFRWS,http://github.com/a-white/,Github,repository platform,accessible,no recent activity,14 years ago,open-source,
+"```json
+{
+    ""title"": ""SyncTriage: Using synchronisation artefacts to optimise acquisition order""
+}
+```",sync_triage,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Syntactical Carving of PNGs and Automated Generation of Reproducible Datasets""
+}
+```",syntactical PNG file carver,,created,academic_research_DFRWS,https://github.com/fkie-cad/png-carving,Github,repository platform,accessible,no recent activity,5 years ago,open-source,
+"```json
+{
+    ""title"": ""Tapping .IPAs: An automated analysis of iPhone applications using apple silicon macs""
+}
+```",AppTap,2025,created,academic_research_DFRWS,https://github.com/StevenSeiden/AppTap,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Teleporter: An analytically and forensically sound duplicate transfer system""
+}
+```",Teleporter,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Testing the National Software Reference Library""
+}
+```",Dirim,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""The persistence of memory: Forensic identiï¬cation and extraction of cryptographic keys""
+}
+```",Interrogate,2009,created,academic_research_DFRWS,http://sourceforge.net/projects/interrogate/,SourceForge,repository platform,accessible,no recent activity,Last Update: 2014-06-25,open-source,
+"```json
+{
+    ""title"": ""The use of random sampling in investigations involving child abuse material""
+}
+```",LinEn,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Tiered forensic methodology model for Digital Field Triage by non-digital evidence specialists""
+}
+```",custom built Ubuntu boot disk,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Time is on my side: Steganography in ï¬lesystem metadata""
+}
+```",TOMS,2016,created,academic_research_DFRWS,https://www.sba-research.org/dfrws2016/,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Time-of-recording estimation for audio recordings""
+}
+```",LESS,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Time-of-recording estimation for audio recordings""
+}
+```",bSim,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""TLS key material identification and extraction in memory: Current state and future challenges""
+}
+```",DroidKex,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""TLSkex: Harnessing virtual machine introspection for decrypting TLS communication""
+}
+```",TLSkex,2016,created,academic_research_DFRWS,http://www.fim.uni-passau.de/sis/,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Toward a general collection methodology for Android devices""
+}
+```",custom recovery bootimg,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Towards exact and inexact approximate matching of executable binaries""
+}
+```",apx-bin,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Towards Open-Set Forensic Source Grouping on JPEG Header Information""
+}
+```",Flickr data collection scripts,2020,created,academic_research_DFRWS,https://faui1-gitlab.cs.fau.de/mullanptr/flickr_data,Gitlab,repository platform,accessible,no recent activity,5 YEARS AGO,open-source,
+"```json
+{
+    ""title"": ""TraceGen: User activity emulation for digital forensic test image generation""
+}
+```",TraceGen,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Tumblingdownthestairs:Exploiting atumbler â€™sattempttohidewith ordinary-looking transactions usingwalletfingerprinting""
+}
+```",wallet fingerprinting,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Ubi est indicium? On forensic analysis of the UBI file system""
+}
+```",UBI Forensic Toolkit (UBIFT),2024,created,academic_research_DFRWS,https://github.com/matthias-deu/ubift,Github,repository platform,accessible,recent activity,18-Feb-24,open-source,
+"```json
+{
+    ""title"": ""Unicode search of dirty data, or: How I learned to stop worrying and love Unicode Technical Standard #18""
+}
+```",lightgrep,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Unifying Metadata-Based Storage Reconstruction and Carving with LAYR""
+}
+```",LAYR,2020,created,academic_research_DFRWS,https://github.com/janineschneider/LAYR,Github,repository platform,accessible,no recent activity,6 years agO,open-source,
+"```json
+{
+    ""title"": ""Unifying Metadata-Based Storage Reconstruction and Carving with LAYR""
+}
+```",DOS,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Unifying Metadata-Based Storage Reconstruction and Carving with LAYR""
+}
+```",Ext3,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Using computed similarity of distinctive digital traces to evaluate non-obvious links and repetitions in cyber-investigations""
+}
+```",EmailSimilarity,2018,created,academic_research_DFRWS,https://github.com/timbolle-unil/EmailSimilarity,Github,repository platform,accessible,no recent activity,9 years ago,open-source,
+"```json
+{
+    ""title"": ""Using JPEG quantization tables to identify imagery processed by software""
+}
+```",Calvin,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Using purpose-built functions and block hashes to enable small block and sub-ï¬le forensics""
+}
+```",frag_find,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Using purpose-built functions and block hashes to enable small block and sub-ï¬le forensics""
+}
+```",precarve,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Using relational graphs for exploratory analysis of network traf ï¬c data""
+}
+```",Granef,2023,created,academic_research_DFRWS,https://granef.csirt.muni.cz/,research-group website,webpage,accessible,recent activity,7 months ago at gitlab,open-source,
+"```json
+{
+    ""title"": ""Using shellbag information to reconstruct user activities""
+}
+```",TraceHunter,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Using the HFS Djournal for deleted ï¬le recovery""
+}
+```",HFS Journal Recovery Utility,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""VIDE - Vault App Identification and Extraction System for iOS Devices""
+}
+```",VIDE,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Video source identification using machine learning: A case study of 16 instant messaging applications""
+}
+```",Video Source Identifier,,created,academic_research_DFRWS,https://github.com/yhyoy/video_source_identifier,Github,repository platform,accessible,recent activity,29-Nov-24,open-source,
+"```json
+{
+    ""title"": ""Visualization in testing a volatile memory forensic tool""
+}
+```",Mac Memory Reader,2011,created,academic_research_DFRWS,http://cybermarshal.com/index.php/cyber-marshal-utilities,research-group website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""VMI-PL: A monitoring language for virtual platforms using virtual machine introspection""
+}
+```",VMI-PL,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""volGPT: Evaluation on triaging ransomware process in memory forensics with Large Language Model""
+}
+```",volGPT,,created,academic_research_DFRWS,not provided,not observable,restricted distribution,restricted,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""WARNE: A stalkerware evidence collection tool""
+}
+```",WARNE,2024,created,academic_research_DFRWS,not provided,not observable,restricted distribution,restricted,not observable,not observable,not-specified,https://github.com/PhilippeMangeard/WarnePublic
+"```json
+{
+    ""title"": ""Well Played, Suspect! â€“ Forensic examination of the handheld gaming console â€œSteam Deck â€""
+}
+```",Steam Deck Analyzer,2024,created,academic_research_DFRWS,https://github.com/gpgls/autopsy-steam-deck,Github,repository platform,accessible,recent activity,10 months ago,open-source,
+"```json
+{
+    ""title"": ""Who watches the watcher? Detecting hypervisor introspection from unprivileged guests""
+}
+```",Environmental Characterization and Response (ECR),,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Windows Memory Forensics: Detecting (Un)Intentionally Hidden Injected Code by Examining Page Table Entries""
+}
+```",ptenum,2019,created,academic_research_DFRWS,https://github.com/f-block/DFRWS-USA-2019,Github,repository platform,accessible,no recent activity,12-Dec-23,open-source,
+"```json
+{
+    ""title"": ""Windows memory forensics: Identi ï¬cation of (malicious) modi ï¬cations in memory-mapped image ï¬les""
+}
+```",imgmal find,2023,created,academic_research_DFRWS,https://github.com/f-block/DFRWS-USA-2023,Github,repository platform,accessible,no recent activity,13-Jul-23,open-source,
+"```json
+{
+    ""title"": ""Windows operating systems agnostic memory analysis""
+}
+```",Windows agnostic memory analysis tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Windows Surface RT tablet forensics""
+}
+```",Custom data acquisition tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Wirespeed: Extending the AFF4 forensic container format for scalable acquisition and live analysis""
+}
+```",Wirespeed,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""XIRAF â€“ XML-based indexing and querying for digital forensics""
+}
+```",XIRAF,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Your car is recording: Metadata-driven dashcam analysis system""
+}
+```",Dashcam_Plaso,2021,created,academic_research_DFRWS,https://github.com/kukheon1109/Dashcam_Plaso,Github,repository platform,accessible,no recent activity,4 years ago,open-source,
+"```json
+{
+    ""title"": ""Multi-resolution similarity hashing""
+}
+```",mrshash,2007,created,academic_research_DFRWS,http://roussev.net/mrshash,personal website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Forensic memory analysis: From stack and code to execution history5""
+}
+```",stack analyzer,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Analyzing Multiple Logs for Forensic Evidence""
+}
+```",model checking algorithm,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Analyzing Multiple Logs for Forensic Evidence""
+}
+```",tableau-based proof system,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Automated Windows Event Log Forensics""
+}
+```",FixEvt,2007,created,academic_research_DFRWS,http://www.murphey.org/fixevt,project website,webpage,accessible,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""Capture: A Tool for Behavioral Analysis of Applications and Documents""
+}
+```",Capture,2007,created,academic_research_DFRWS,http://www.nz-honeynet.org/capture-standalone.html,project website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""File Marshal: Automatic Extraction of Peer-to-Peer Data""
+}
+```",File Marshal,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""File Marshal: Automatic Extraction of Peer-to-Peer Data""
+}
+```",registry library,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Introducing the Microsoft Vista Log File Format""
+}
+```",parser,2007,created,academic_research_DFRWS,http://computer.forensikblog.de/en/2007/08/evtx_parser.html,personal website,webpage,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Digital forensic text string searching: Improving information retrieval effectiveness by thematically clustering search results""
+}
+```",working tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Multi-resolution similarity hashing""
+}
+```",multi-resolution similarity hash (MRS hash),2007,created,academic_research_DFRWS,http://roussev.net/mrshash,personal website,webpage,unavailable,not observable,not observable,open-source,
+"```json
+{
+    ""title"": ""BodySnatcher: Towards reliable volatile memory acquisition by software""
+}
+```",BodySnatcher,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""The VAD tree: A process-eye view of physical memory""
+}
+```",vadwalk.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""The VAD tree: A process-eye view of physical memory""
+}
+```",vadinfo.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""The VAD tree: A process-eye view of physical memory""
+}
+```",vaddump.py,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""All your TLS keys are belong to Us: A novel approach to live memory forensic key extraction""
+}
+```",TLSKeyHunter,2025,created,academic_research_DFRWS,https://github.com/monkeywave/TLSKeyHunter,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Advanced forensic recovery of deleted file data in F2FS""
+}
+```",F2FS_Recover tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Media source similarity hashing (MSSH): A practical method for large-scale media investigations""
+}
+```",Media Source Similarity Hash (MSSH),2025,created,academic_research_DFRWS,https://github.com/SamKlier/mssh,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""DEF-IPV: A digital evidence framework for intimate partner violence victims""
+}
+```",DEF-IPV,2025,created,academic_research_DFRWS,https://tinyurl.com/def-ipv-prototype,project website,webpage,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""DF-graph: Structured and explainable analysis of communication data for digital forensics""
+}
+```",DF-GRAPH,2025,created,academic_research_DFRWS,https://github.com/microsoft/graphrag,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Automatically generating digital forensic reference data triggered by mobile application updates""
+}
+```",Puma,2025,created,academic_research_DFRWS,https://github.com/NetherlandsForensicInstitute/puma,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""LangurTrace: Forensic analysis of local LLM applications""
+}
+```",LangurTrace,2025,created,academic_research_DFRWS,https://github.com/jeongramon/LangurTrace,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Advanced Monero wallet forensics: Demystifying off-chain artifacts to trace privacy-preserving cryptocurrency transactions""
+}
+```",MoeyEx,2025,created,academic_research_DFRWS,https://github.com/jeong0000/MoeyEx,Github,repository platform,accessible,excluded,excluded,open-source,
+"```json
+{
+    ""title"": ""Introducing the Microsoft Vista Log File Format""
+}
+```",substitution array template,2007,created,academic_research_DFRWS,http://computer.forensikblog.de/en/2007/08/evtx_substarray_template.html,project website,webpage,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""File Hound: A Forensics Tool for First Responders""
+}
+```",File Hound,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Network Forensics Analysis with Evidence Graphs""
+}
+```",Network Forensics Analysis Tool,,created,academic_research_DFRWS,not provided,not observable,prototype implementation,unavailable,not observable,not observable,not-specified,
+"```json
+{
+    ""title"": ""Scalpel: A Frugal, High Performance File Carver""
+}
+```",Scalpel,2005,created,academic_research_DFRWS,http://www.digitalforensicsolutions.com/Scalpel,project website,webpage,accessible,not observable,not observable,open-source,
